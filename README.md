@@ -8,4 +8,5 @@ We propose a model for analysing the risk of agitation in people with dementia. 
 - Run python baseline_experiments.py to train and test the baseline models for comparison. There are LSTM, BiLSTM, VGG, ResNet and Inception.
 - The models will be saved in saved_models folder.
 
+The paper is available here: https://arxiv.org/pdf/2105.10398.pdf
 
